@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm **Robit** (he/him), an ungraduate Computer Science student. I am interested in all things involving software development, computer architecture, and cybersecurity. 
+
+- 🔭 I’m currently working on ... an open hardware enclave in RISC-V, and my own website! 
+
+- 💬 I have worked on ... massively scaling gameservers, cybersecurity, information technology, database architecture, massively parallel computing environments, compilers, and interpreters.
+
+- 📫 How to reach me: Discord - Robit#6661
+
+- ⚡ Fun fact: If you cloned me 7 more times, you would have a Robyte
+
 <!--
 **Robit/Robit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
