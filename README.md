@@ -6,7 +6,7 @@ I'm **Robit** (he/him), an ungraduate Computer Science student. I am interested 
 
 - 💬 I have worked on ... massively scaling gameservers, cybersecurity, information technology, database architecture, massively parallel computing environments, compilers, and interpreters.
 
-- 📫 How to reach me: Discord - Robit#6661
+- 📫 How to reach me: robit@robit.dev
 
 - ⚡ Fun fact: If you cloned me 7 more times, you would have a Robyte
 
